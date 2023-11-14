@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body{
-    background-color: #ccf78c;
+    background-color: #f78ce2;
     font-family: Arial, Helvetica, sans-serif;
 }
 h1, h2{
@@ -22,7 +22,7 @@ img{
     text-align: center;
 }
 footer{
-    background-color: #242481;
+    background-color: #592480 ;
     color:white;
     padding: 1rem;
     
